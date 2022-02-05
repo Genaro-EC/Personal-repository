@@ -25,3 +25,21 @@ Issues.- Rastrear errores; proponer mejoras o discutir cambios en GitHub
         B) Milestone.- Agrupar Issues (Con @ podemos etiquetar usuarios, con # llamamos a otros issues).
         
         C) Cada que se abre un Issue se asigna un número único.
+
+
+*Es importante tener un README en los proyectos, estos deben contener:*
+A) Nombre del proyecto
+
+B) Descripción
+
+C) Tabla de contenido
+
+D) Instalación
+
+C) Uso
+
+D) Contribución
+
+E) Créditos
+
+F) Licencia
