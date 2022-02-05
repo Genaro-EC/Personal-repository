@@ -28,6 +28,7 @@ Issues.- Rastrear errores; proponer mejoras o discutir cambios en GitHub
 
 
 *Es importante tener un README en los proyectos, estos deben contener:*
+
 A) Nombre del proyecto
 
 B) Descripción
