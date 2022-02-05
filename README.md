@@ -4,10 +4,14 @@ El contacto para problemas técnicos con la plataforma es: contacto@innovaccion.
 ---------------------------------------------------------------------------------------------
 
 Los criterios para para tener un avance satisfactorio son:
+
         A) Acceder a Microsoft Teams al menos 3 veces.
-        B) Crear un perfil en GitHub
-        C) Realizar actividades o laboratorios de las misiones
-        D) Respecto a los demás
+        
+        B) Crear un perfil en GitHub.
+        
+        C) Realizar actividades o laboratorios de las misiones.
+        
+        D) Respecto a los demás.
         
 ---------------------------------------------------------------------------------------------
 
