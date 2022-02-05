@@ -19,6 +19,9 @@ Conceptos básicos de Github
 Fork (bifurcación).- Produce una copia personal del repositorio de otra persona; el ejemplo público es: https://github.com/octocat/Spoon_Knife
 
 Issues.- Rastrear errores; proponer mejoras o discutir cambios en GitHub
-        A) Labels.- Tipo de clasificación para Issues
-        B) Milestone.- Agrupar Issues (Con @ podemos etiquetar usuarios, con # llamamos a otros issues)
-        C) Cada que se abre un Issue se asigna un número único
+
+        A) Labels.- Tipo de clasificación para Issues.
+        
+        B) Milestone.- Agrupar Issues (Con @ podemos etiquetar usuarios, con # llamamos a otros issues).
+        
+        C) Cada que se abre un Issue se asigna un número único.
