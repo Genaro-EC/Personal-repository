@@ -49,3 +49,4 @@ F) Licencia
 *Primer práctica en la consola de Visual Studio*
 El ejercicio consistio en crear un archivo en la consola de VS, crear markdowns, ejecutar notebooks, realizar cálculos, etc
 
+[ship-manual.zip](https://github.com/Genaro-EC/Personal-repository/files/8017026/ship-manual.zip)
