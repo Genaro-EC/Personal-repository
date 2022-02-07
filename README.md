@@ -46,7 +46,29 @@ E) Créditos
 F) Licencia
 
 
-*Primer práctica en la consola de Visual Studio*
+# *Primer práctica en la consola de Visual Studio*
 El ejercicio consistio en crear un archivo en la consola de VS, crear markdowns, ejecutar notebooks, realizar cálculos, etc
 
 [ship-manual.zip](https://github.com/Genaro-EC/Personal-repository/files/8017026/ship-manual.zip)
+
+
+# *Primer curso de Python*
+A) Como mostrar información en pantalla mediante el código *print*
+
+B) Como asignar variables
+
+C) Comprender los diferentes tipos de datos: Númerico (1,3,4,etc), texto ("ejemplo"), booleano (verdadero o falso)
+
+D) Aplicar operadores para realizar cálculos simples: suma, resta, multiplicación, división y operadores de asignación: simbolo igual en solitario o precedido por operadores.
+
+____________________________________________________________________________________________________________________
+Para borrar la consola y dejarla limpia se puede utilizar el siguiente código (equivale al CLS de CMD): 
+
+import os
+
+clearConsole = lambda: os.system('cls' if os.name in ('nt', 'dos') else 'clear')
+
+clearConsole()
+____________________________________________________________________________________________________________________
+
+Realizada la kata del módulo 1
