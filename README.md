@@ -44,3 +44,8 @@ D) Contribución
 E) Créditos
 
 F) Licencia
+
+
+*Primer práctica en la consola de Visual Studio*
+El ejercicio consistio en crear un archivo en la consola de VS, crear markdowns, ejecutar notebooks, realizar cálculos, etc
+
